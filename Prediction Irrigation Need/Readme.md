@@ -1,11 +1,11 @@
-#vPredicting Irrigation Need 
+##Predicting Irrigation Need 
 
-## 📌 Problem
+## Problem :
 Predict irrigation requirement (Low, Medium, High) using environmental and soil-related data.
 
 ---
 
-## 📊 Approach
+## Approach :
 
 ### Data Processing
 - Cleaned dataset
@@ -21,12 +21,12 @@ Predict irrigation requirement (Low, Medium, High) using environmental and soil-
 
 ---
 
-## 📈 Result
+## Result :
 - Kaggle Public Score: **0.96188**
 
 ---
 
-## 🧠 Key Learnings
+## Key Learnings :
 - Importance of feature engineering
 - Handling categorical data correctly
 - Impact of class imbalance on model performance
@@ -34,20 +34,20 @@ Predict irrigation requirement (Low, Medium, High) using environmental and soil-
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used :
 - Python
 - Pandas, NumPy
 - Scikit-learn
 
 ---
 
-## 📂 Files
+## Files :
 - `notebook.ipynb` → Model + analysis
 - `submission.csv` → Predictions
 
 ---
 
-## 🎯 Conclusion
+## Conclusion :
 This project demonstrates a complete machine learning workflow, from preprocessing to model building and Kaggle submission.
 
 ---
